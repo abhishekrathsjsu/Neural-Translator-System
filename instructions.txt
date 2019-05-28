@@ -1,0 +1,2 @@
+You can access the resulting model, training set and test set at:
+https://drive.google.com/drive/u/2/folders/18QlmokfuKkdTG2445a7KqyWMbOQ2cCMK
